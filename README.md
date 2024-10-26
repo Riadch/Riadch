@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Riad Chaib, I'm 20 years old 😁, 
+And I am a computer science student 👨‍💻 at the University of Science and Technology Houari Boumediene.
 
 <!--
 **Riadch/Riadch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
